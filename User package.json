@@ -1,6 +1,7 @@
 {
   "name": "hospital-booking-frontend",
   "version": "1.0.0",
+  "desscription":"Front-end of hospital booking system",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
