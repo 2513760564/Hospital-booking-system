@@ -1,3 +1,4 @@
+import '.auth.css';
 //User login
 import React from 'react';
 
