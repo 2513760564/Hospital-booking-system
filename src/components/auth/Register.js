@@ -1,5 +1,5 @@
+import './auth.css';
 import React from 'react';
-
 const Register = () => {
   return (
     <div style={{ padding: '20px' }}>
