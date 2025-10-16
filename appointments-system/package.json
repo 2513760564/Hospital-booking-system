@@ -12,5 +12,8 @@
     "test": "cd client && npm test && cd ../server && pytest",
     "build": "cd client && npm run build",
     "setup": "npm run install-all"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
   }
 }
